@@ -1,0 +1,271 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1070" viewBox="0 0 1280 1070">
+<rect width="100%" height="100%" fill="#fbfcfa"/>
+<text x="48" y="48" font-size="30" font-weight="800" fill="#13233a">同样是 0-1 试点，连续规制强度并不相同：2020-2023</text>
+<text x="50" y="78" font-size="15" fill="#637089">左侧为正式试点状态 D_credit_dummy；右侧为修正后 D_credit_PCA_stock 的年度标准化值。连续变量能区分同一试点身份下的信贷导向规制强弱。</text>
+<line x1="48" y1="100" x2="1232" y2="100" stroke="#e2e8f0"/>
+<g transform="translate(52,122)">
+<rect x="0" y="0" width="585" height="410" rx="8" fill="#ffffff" stroke="#e5eaf0"/>
+<text x="24" y="38" font-size="22" font-weight="800" fill="#13233a">2020 年</text>
+<text x="168" y="38" font-size="13" fill="#56657a">0-1 处理变量</text>
+<text x="418" y="38" font-size="13" fill="#56657a">连续规制强度</text>
+<text x="88" y="81" font-size="14" fill="#13233a" text-anchor="end">上海</text>
+<line x1="218" y1="76" x2="492" y2="76" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="76" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="81" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="76" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="81" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="112" font-size="14" fill="#13233a" text-anchor="end">杭州</text>
+<line x1="218" y1="107" x2="492" y2="107" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="107" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="112" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="107" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="112" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="143" font-size="14" fill="#13233a" text-anchor="end">南宁</text>
+<line x1="218" y1="138" x2="492" y2="138" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="138" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="143" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="138" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="143" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="174" font-size="14" fill="#13233a" text-anchor="end">成都</text>
+<line x1="218" y1="169" x2="492" y2="169" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="169" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="174" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="169" r="31.00" fill="rgb(128,23,28)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="174" font-size="13" fill="#45576f">1.000</text>
+<text x="88" y="205" font-size="14" fill="#13233a" text-anchor="end">深圳</text>
+<line x1="218" y1="200" x2="492" y2="200" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="200" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="205" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="200" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="205" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="236" font-size="14" fill="#13233a" text-anchor="end">防城港</text>
+<line x1="218" y1="231" x2="492" y2="231" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="231" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="236" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="231" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="236" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="267" font-size="14" fill="#13233a" text-anchor="end">西双版纳</text>
+<line x1="218" y1="262" x2="492" y2="262" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="262" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="267" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="262" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="267" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="298" font-size="14" fill="#13233a" text-anchor="end">北京</text>
+<line x1="218" y1="293" x2="492" y2="293" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="293" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="298" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="293" r="26.25" fill="rgb(243,93,77)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="298" font-size="13" fill="#45576f">0.615</text>
+<text x="88" y="329" font-size="14" fill="#13233a" text-anchor="end">五指山</text>
+<line x1="218" y1="324" x2="492" y2="324" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="324" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="329" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="324" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="329" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="360" font-size="14" fill="#13233a" text-anchor="end">苏州</text>
+<line x1="218" y1="355" x2="492" y2="355" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="355" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="360" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="355" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="360" font-size="13" fill="#45576f">0.000</text>
+</g>
+<g transform="translate(691,122)">
+<rect x="0" y="0" width="585" height="410" rx="8" fill="#ffffff" stroke="#e5eaf0"/>
+<text x="24" y="38" font-size="22" font-weight="800" fill="#13233a">2021 年</text>
+<text x="168" y="38" font-size="13" fill="#56657a">0-1 处理变量</text>
+<text x="418" y="38" font-size="13" fill="#56657a">连续规制强度</text>
+<text x="88" y="81" font-size="14" fill="#13233a" text-anchor="end">上海</text>
+<line x1="218" y1="76" x2="492" y2="76" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="76" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="81" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="76" r="31.00" fill="rgb(128,23,28)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="81" font-size="13" fill="#45576f">1.000</text>
+<text x="88" y="112" font-size="14" fill="#13233a" text-anchor="end">杭州</text>
+<line x1="218" y1="107" x2="492" y2="107" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="107" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="112" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="107" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="112" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="143" font-size="14" fill="#13233a" text-anchor="end">南宁</text>
+<line x1="218" y1="138" x2="492" y2="138" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="138" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="143" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="138" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="143" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="174" font-size="14" fill="#13233a" text-anchor="end">成都</text>
+<line x1="218" y1="169" x2="492" y2="169" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="169" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="174" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="169" r="28.92" fill="rgb(195,48,51)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="174" font-size="13" fill="#45576f">0.820</text>
+<text x="88" y="205" font-size="14" fill="#13233a" text-anchor="end">深圳</text>
+<line x1="218" y1="200" x2="492" y2="200" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="200" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="205" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="200" r="22.98" fill="rgb(252,163,105)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="205" font-size="13" fill="#45576f">0.404</text>
+<text x="88" y="236" font-size="14" fill="#13233a" text-anchor="end">防城港</text>
+<line x1="218" y1="231" x2="492" y2="231" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="231" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="236" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="231" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="236" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="267" font-size="14" fill="#13233a" text-anchor="end">西双版纳</text>
+<line x1="218" y1="262" x2="492" y2="262" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="262" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="267" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="262" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="267" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="298" font-size="14" fill="#13233a" text-anchor="end">北京</text>
+<line x1="218" y1="293" x2="492" y2="293" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="293" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="298" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="293" r="29.76" fill="rgb(169,38,42)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="298" font-size="13" fill="#45576f">0.890</text>
+<text x="88" y="329" font-size="14" fill="#13233a" text-anchor="end">五指山</text>
+<line x1="218" y1="324" x2="492" y2="324" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="324" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="329" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="324" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="329" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="360" font-size="14" fill="#13233a" text-anchor="end">苏州</text>
+<line x1="218" y1="355" x2="492" y2="355" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="355" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="360" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="355" r="21.48" fill="rgb(254,187,122)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="360" font-size="13" fill="#45576f">0.322</text>
+</g>
+<g transform="translate(52,582)">
+<rect x="0" y="0" width="585" height="410" rx="8" fill="#ffffff" stroke="#e5eaf0"/>
+<text x="24" y="38" font-size="22" font-weight="800" fill="#13233a">2022 年</text>
+<text x="168" y="38" font-size="13" fill="#56657a">0-1 处理变量</text>
+<text x="418" y="38" font-size="13" fill="#56657a">连续规制强度</text>
+<text x="88" y="81" font-size="14" fill="#13233a" text-anchor="end">上海</text>
+<line x1="218" y1="76" x2="492" y2="76" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="76" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="81" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="76" r="31.00" fill="rgb(128,23,28)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="81" font-size="13" fill="#45576f">1.000</text>
+<text x="88" y="112" font-size="14" fill="#13233a" text-anchor="end">杭州</text>
+<line x1="218" y1="107" x2="492" y2="107" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="107" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="112" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="107" r="30.05" fill="rgb(159,35,39)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="112" font-size="13" fill="#45576f">0.915</text>
+<text x="88" y="143" font-size="14" fill="#13233a" text-anchor="end">南宁</text>
+<line x1="218" y1="138" x2="492" y2="138" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="138" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="143" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="138" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="143" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="174" font-size="14" fill="#13233a" text-anchor="end">成都</text>
+<line x1="218" y1="169" x2="492" y2="169" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="169" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="174" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="169" r="29.86" fill="rgb(165,37,41)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="174" font-size="13" fill="#45576f">0.899</text>
+<text x="88" y="205" font-size="14" fill="#13233a" text-anchor="end">深圳</text>
+<line x1="218" y1="200" x2="492" y2="200" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="200" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="205" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="200" r="26.32" fill="rgb(242,91,77)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="205" font-size="13" fill="#45576f">0.620</text>
+<text x="88" y="236" font-size="14" fill="#13233a" text-anchor="end">防城港</text>
+<line x1="218" y1="231" x2="492" y2="231" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="231" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="236" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="231" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="236" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="267" font-size="14" fill="#13233a" text-anchor="end">西双版纳</text>
+<line x1="218" y1="262" x2="492" y2="262" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="262" r="13" fill="#f9faf2" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="267" text-anchor="middle" font-size="12" fill="#42526b">0</text>
+<circle cx="500" cy="262" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="267" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="298" font-size="14" fill="#13233a" text-anchor="end">北京</text>
+<line x1="218" y1="293" x2="492" y2="293" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="293" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="298" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="293" r="31.00" fill="rgb(128,23,28)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="298" font-size="13" fill="#45576f">1.000</text>
+<text x="88" y="329" font-size="14" fill="#13233a" text-anchor="end">五指山</text>
+<line x1="218" y1="324" x2="492" y2="324" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="324" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="329" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="324" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="329" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="360" font-size="14" fill="#13233a" text-anchor="end">苏州</text>
+<line x1="218" y1="355" x2="492" y2="355" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="355" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="360" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="355" r="28.43" fill="rgb(209,53,56)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="360" font-size="13" fill="#45576f">0.780</text>
+</g>
+<g transform="translate(691,582)">
+<rect x="0" y="0" width="585" height="410" rx="8" fill="#ffffff" stroke="#e5eaf0"/>
+<text x="24" y="38" font-size="22" font-weight="800" fill="#13233a">2023 年</text>
+<text x="168" y="38" font-size="13" fill="#56657a">0-1 处理变量</text>
+<text x="418" y="38" font-size="13" fill="#56657a">连续规制强度</text>
+<text x="88" y="81" font-size="14" fill="#13233a" text-anchor="end">上海</text>
+<line x1="218" y1="76" x2="492" y2="76" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="76" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="81" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="76" r="29.85" fill="rgb(166,37,41)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="81" font-size="13" fill="#45576f">0.898</text>
+<text x="88" y="112" font-size="14" fill="#13233a" text-anchor="end">杭州</text>
+<line x1="218" y1="107" x2="492" y2="107" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="107" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="112" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="107" r="28.87" fill="rgb(196,48,51)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="112" font-size="13" fill="#45576f">0.815</text>
+<text x="88" y="143" font-size="14" fill="#13233a" text-anchor="end">南宁</text>
+<line x1="218" y1="138" x2="492" y2="138" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="138" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="143" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="138" r="28.85" fill="rgb(197,48,52)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="143" font-size="13" fill="#45576f">0.814</text>
+<text x="88" y="174" font-size="14" fill="#13233a" text-anchor="end">成都</text>
+<line x1="218" y1="169" x2="492" y2="169" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="169" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="174" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="169" r="28.11" fill="rgb(219,57,59)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="174" font-size="13" fill="#45576f">0.754</text>
+<text x="88" y="205" font-size="14" fill="#13233a" text-anchor="end">深圳</text>
+<line x1="218" y1="200" x2="492" y2="200" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="200" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="205" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="200" r="28.85" fill="rgb(197,48,52)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="205" font-size="13" fill="#45576f">0.814</text>
+<text x="88" y="236" font-size="14" fill="#13233a" text-anchor="end">防城港</text>
+<line x1="218" y1="231" x2="492" y2="231" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="231" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="236" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="231" r="24.19" fill="rgb(249,139,95)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="236" font-size="13" fill="#45576f">0.477</text>
+<text x="88" y="267" font-size="14" fill="#13233a" text-anchor="end">西双版纳</text>
+<line x1="218" y1="262" x2="492" y2="262" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="262" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="267" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="262" r="25.31" fill="rgb(245,114,86)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="267" font-size="13" fill="#45576f">0.550</text>
+<text x="88" y="298" font-size="14" fill="#13233a" text-anchor="end">北京</text>
+<line x1="218" y1="293" x2="492" y2="293" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="293" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="298" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="293" r="28.40" fill="rgb(210,53,56)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="298" font-size="13" fill="#45576f">0.778</text>
+<text x="88" y="329" font-size="14" fill="#13233a" text-anchor="end">五指山</text>
+<line x1="218" y1="324" x2="492" y2="324" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="324" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="329" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="324" r="9.00" fill="rgb(255,253,241)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="329" font-size="13" fill="#45576f">0.000</text>
+<text x="88" y="360" font-size="14" fill="#13233a" text-anchor="end">苏州</text>
+<line x1="218" y1="355" x2="492" y2="355" stroke="#d4dce6" stroke-width="1"/>
+<circle cx="205" cy="355" r="13" fill="#071426" stroke="#0b1524" stroke-width="1"/>
+<text x="205" y="360" text-anchor="middle" font-size="12" fill="#ffffff">1</text>
+<circle cx="500" cy="355" r="31.00" fill="rgb(128,23,28)" stroke="#6b7280" stroke-width="1"/>
+<text x="552" y="360" font-size="13" fill="#45576f">1.000</text>
+</g>
+<text x="50" y="1038" font-size="12" fill="#6b7280">注：右侧连续强度按每一年十个城市内部 min-max 标准化；左侧 0-1 变量只表示是否已进入正式试点，不能反映政策文本、银行协作和产业金融应用的强弱。</text>
+</svg>
