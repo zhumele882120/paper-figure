@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="680" viewBox="0 0 980 680">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,"Microsoft YaHei",sans-serif;fill:#111827}.title{font-size:22px;font-weight:700}.lab{font-size:14px}.small{font-size:12px;fill:#64748b}.grid{stroke:#e5e7eb}</style>
+<text x="34" y="38" class="title">最新 LLM 指标：额外稳健性检验</text>
+<line x1="372.0" y1="50" x2="372.0" y2="620" class="grid"/>
+<text x="372.0" y="645" text-anchor="middle" class="small">0.00</text>
+<line x1="481.5" y1="50" x2="481.5" y2="620" class="grid"/>
+<text x="481.5" y="645" text-anchor="middle" class="small">1.55</text>
+<line x1="591.0" y1="50" x2="591.0" y2="620" class="grid"/>
+<text x="591.0" y="645" text-anchor="middle" class="small">3.11</text>
+<line x1="700.5" y1="50" x2="700.5" y2="620" class="grid"/>
+<text x="700.5" y="645" text-anchor="middle" class="small">4.66</text>
+<line x1="810.0" y1="50" x2="810.0" y2="620" class="grid"/>
+<text x="810.0" y="645" text-anchor="middle" class="small">6.22</text>
+<line x1="372.0" y1="45" x2="372.0" y2="620" stroke="#111827" stroke-dasharray="5 5"/>
+<text x="34" y="75" class="lab">cumulative-Quadratic_FE_linear *</text>
+<line x1="335.6" y1="70" x2="803.0" y2="70" stroke="#2F6B8A" stroke-width="3"/>
+<circle cx="569.3" cy="70" r="6.5" fill="#2F6B8A" stroke="#fff" stroke-width="2"/>
+<text x="813.0" y="74" class="small">2.802 [-0.516, 6.119]</text>
+<text x="34" y="131" class="lab">cumulative-DML_binary_dummy_nonlinear ***</text>
+<line x1="381.4" y1="126" x2="409.1" y2="126" stroke="#78a800" stroke-width="3"/>
+<circle cx="395.2" cy="126" r="6.5" fill="#78a800" stroke="#fff" stroke-width="2"/>
+<text x="419.1" y="130" class="small">0.331 [0.134, 0.527]</text>
+<text x="34" y="187" class="lab">cumulative-TWFE_binary_dummy ***</text>
+<line x1="381.1" y1="182" x2="412.1" y2="182" stroke="#C95F2E" stroke-width="3"/>
+<circle cx="396.6" cy="182" r="6.5" fill="#C95F2E" stroke="#fff" stroke-width="2"/>
+<text x="422.1" y="186" class="small">0.350 [0.130, 0.570]</text>
+<text x="34" y="243" class="lab">cumulative-PLR_DML_Ridge_nonlinear ***</text>
+<line x1="418.0" y1="238" x2="514.8" y2="238" stroke="#b66cff" stroke-width="3"/>
+<circle cx="466.4" cy="238" r="6.5" fill="#b66cff" stroke="#fff" stroke-width="2"/>
+<text x="524.8" y="242" class="small">1.341 [0.653, 2.028]</text>
+<text x="34" y="299" class="lab">stock-DML_binary_dummy_nonlinear ***</text>
+<line x1="381.4" y1="294" x2="409.1" y2="294" stroke="#00a9b7" stroke-width="3"/>
+<circle cx="395.2" cy="294" r="6.5" fill="#00a9b7" stroke="#fff" stroke-width="2"/>
+<text x="419.1" y="298" class="small">0.331 [0.134, 0.527]</text>
+<text x="34" y="355" class="lab">stock-TWFE_binary_dummy ***</text>
+<line x1="381.1" y1="350" x2="412.1" y2="350" stroke="#ef4444" stroke-width="3"/>
+<circle cx="396.6" cy="350" r="6.5" fill="#ef4444" stroke="#fff" stroke-width="2"/>
+<text x="422.1" y="354" class="small">0.350 [0.130, 0.570]</text>
+<text x="34" y="411" class="lab">stock-PLR_DML_Ridge_nonlinear ***</text>
+<line x1="394.1" y1="406" x2="431.1" y2="406" stroke="#2F6B8A" stroke-width="3"/>
+<circle cx="412.6" cy="406" r="6.5" fill="#2F6B8A" stroke="#fff" stroke-width="2"/>
+<text x="441.1" y="410" class="small">0.577 [0.315, 0.839]</text>
+<text x="34" y="467" class="lab">flow-DML_binary_dummy_nonlinear ***</text>
+<line x1="381.3" y1="462" x2="408.9" y2="462" stroke="#78a800" stroke-width="3"/>
+<circle cx="395.1" cy="462" r="6.5" fill="#78a800" stroke="#fff" stroke-width="2"/>
+<text x="418.9" y="466" class="small">0.329 [0.133, 0.524]</text>
+<text x="34" y="523" class="lab">flow-TWFE_binary_dummy ***</text>
+<line x1="381.4" y1="518" x2="411.7" y2="518" stroke="#C95F2E" stroke-width="3"/>
+<circle cx="396.5" cy="518" r="6.5" fill="#C95F2E" stroke="#fff" stroke-width="2"/>
+<text x="421.7" y="522" class="small">0.349 [0.134, 0.564]</text>
+<text x="34" y="579" class="lab">flow-PLR_DML_Ridge_nonlinear ***</text>
+<line x1="391.6" y1="574" x2="427.4" y2="574" stroke="#b66cff" stroke-width="3"/>
+<circle cx="409.5" cy="574" r="6.5" fill="#b66cff" stroke="#fff" stroke-width="2"/>
+<text x="437.4" y="578" class="small">0.533 [0.279, 0.787]</text>
+<text x="34" y="664" class="small">注：线为 95% 置信区间；所有标准误均在省份层面聚类。</text>
+</svg>

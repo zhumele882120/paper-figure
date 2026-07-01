@@ -1,0 +1,905 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="2254" viewBox="0 0 1180 2254">
+<rect width="100%" height="100%" fill="#fbfbf8"/>
+<style>
+text { font-family: 'Microsoft YaHei','SimHei','Noto Sans CJK SC',Arial,sans-serif; fill: #243447; }
+.title { font-size: 28px; font-weight: 700; }
+.subtitle { font-size: 14px; fill: #6b7280; }
+.axis { font-size: 12px; fill: #6b7280; }
+.small { font-size: 11px; fill: #6b7280; }
+</style>
+<text x="36" y="44" class="title">累计递增版数字人民币信贷导向综合规制能力</text>
+<text x="36" y="70" class="subtitle">颜色表示 D_credit_PCA_cum；同一城市试点后只增不减，适合作为制度能力累积的稳健性检验。</text>
+<line x1="36" y1="88" x2="1144" y2="88" stroke="#e5e7eb" stroke-width="1"/>
+
+<text x="191.0" y="114" text-anchor="middle" class="axis">2017</text>
+<text x="283.0" y="114" text-anchor="middle" class="axis">2018</text>
+<text x="375.0" y="114" text-anchor="middle" class="axis">2019</text>
+<text x="467.0" y="114" text-anchor="middle" class="axis">2020</text>
+<text x="559.0" y="114" text-anchor="middle" class="axis">2021</text>
+<text x="651.0" y="114" text-anchor="middle" class="axis">2022</text>
+<text x="743.0" y="114" text-anchor="middle" class="axis">2023</text>
+<text x="835.0" y="114" text-anchor="middle" class="axis">2024</text>
+<text x="30" y="143" class="small">2020批次</text>
+<text x="133" y="144" text-anchor="end" class="axis">北京</text>
+<rect x="145" y="128" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="128" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="128" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="128" width="88" height="20" rx="3" fill="#fee9ca" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="128" width="88" height="20" rx="3" fill="#fdc78b" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="128" width="88" height="20" rx="3" fill="#f57e5b" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="128" width="88" height="20" rx="3" fill="#ea4242" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="128" width="88" height="20" rx="3" fill="#c23434" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="167" text-anchor="end" class="axis">张家口</text>
+<rect x="145" y="151" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="151" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="151" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="151" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="428" y1="166" x2="501" y2="157" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="513" y="151" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="520" y1="166" x2="593" y2="157" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="605" y="151" width="88" height="20" rx="3" fill="#fef2db" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="151" width="88" height="20" rx="3" fill="#fee8c9" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="151" width="88" height="20" rx="3" fill="#fdca91" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="190" text-anchor="end" class="axis">成都</text>
+<rect x="145" y="174" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="174" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="174" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="174" width="88" height="20" rx="3" fill="#feddb4" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="174" width="88" height="20" rx="3" fill="#fdbf7d" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="174" width="88" height="20" rx="3" fill="#f57859" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="174" width="88" height="20" rx="3" fill="#d33a3a" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="174" width="88" height="20" rx="3" fill="#922323" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="213" text-anchor="end" class="axis">深圳</text>
+<rect x="145" y="197" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="197" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="197" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="197" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="428" y1="212" x2="501" y2="203" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="513" y="197" width="88" height="20" rx="3" fill="#feeacd" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="197" width="88" height="20" rx="3" fill="#fdcd97" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="197" width="88" height="20" rx="3" fill="#f6845e" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="197" width="88" height="20" rx="3" fill="#ef4946" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="236" text-anchor="end" class="axis">苏州</text>
+<rect x="145" y="220" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="220" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="220" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="220" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="428" y1="235" x2="501" y2="226" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="513" y="220" width="88" height="20" rx="3" fill="#feeed3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="220" width="88" height="20" rx="3" fill="#fdca92" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="220" width="88" height="20" rx="3" fill="#f36c54" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="220" width="88" height="20" rx="3" fill="#f36c54" stroke="#ffffff" stroke-width="1"/>
+<text x="30" y="258" class="small">2021批次</text>
+<text x="133" y="259" text-anchor="end" class="axis">三亚</text>
+<rect x="145" y="243" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="243" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="243" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="243" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="243" width="88" height="20" rx="3" fill="#fedeb5" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="243" width="88" height="20" rx="3" fill="#fdd3a3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="243" width="88" height="20" rx="3" fill="#fdcb94" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="243" width="88" height="20" rx="3" fill="#fdc88e" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="282" text-anchor="end" class="axis">上海</text>
+<rect x="145" y="266" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="266" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="266" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="266" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="266" width="88" height="20" rx="3" fill="#fdd3a3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="266" width="88" height="20" rx="3" fill="#faa56b" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="266" width="88" height="20" rx="3" fill="#ef4745" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="266" width="88" height="20" rx="3" fill="#8e2222" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="305" text-anchor="end" class="axis">五指山</text>
+<rect x="145" y="289" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="289" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="289" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="289" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="289" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="520" y1="304" x2="593" y2="295" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="605" y="289" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="612" y1="304" x2="685" y2="295" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="697" y="289" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="704" y1="304" x2="777" y2="295" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="789" y="289" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="796" y1="304" x2="869" y2="295" stroke="#cbd5e1" stroke-width="1"/>
+<text x="133" y="328" text-anchor="end" class="axis">儋州</text>
+<rect x="145" y="312" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="312" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="312" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="312" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="312" width="88" height="20" rx="3" fill="#feeacc" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="312" width="88" height="20" rx="3" fill="#feeacc" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="312" width="88" height="20" rx="3" fill="#fee0ba" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="312" width="88" height="20" rx="3" fill="#fdd6a8" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="351" text-anchor="end" class="axis">大连</text>
+<rect x="145" y="335" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="335" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="335" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="335" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="335" width="88" height="20" rx="3" fill="#fee9cb" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="335" width="88" height="20" rx="3" fill="#fdca93" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="335" width="88" height="20" rx="3" fill="#fbaa6d" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="335" width="88" height="20" rx="3" fill="#f78960" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="374" text-anchor="end" class="axis">海口</text>
+<rect x="145" y="358" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="358" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="358" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="358" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="358" width="88" height="20" rx="3" fill="#fee8c8" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="358" width="88" height="20" rx="3" fill="#fdcc95" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="358" width="88" height="20" rx="3" fill="#fbaa6d" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="358" width="88" height="20" rx="3" fill="#fbaa6d" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="397" text-anchor="end" class="axis">西安</text>
+<rect x="145" y="381" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="381" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="381" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="381" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="381" width="88" height="20" rx="3" fill="#fdd8ab" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="381" width="88" height="20" rx="3" fill="#fdba75" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="381" width="88" height="20" rx="3" fill="#fdba75" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="381" width="88" height="20" rx="3" fill="#fbac6e" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="420" text-anchor="end" class="axis">长沙</text>
+<rect x="145" y="404" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="404" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="404" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="404" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="404" width="88" height="20" rx="3" fill="#fedcb3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="404" width="88" height="20" rx="3" fill="#fedcb3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="404" width="88" height="20" rx="3" fill="#fdd2a0" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="404" width="88" height="20" rx="3" fill="#fdd2a0" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="443" text-anchor="end" class="axis">青岛</text>
+<rect x="145" y="427" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="427" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="427" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="427" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="427" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="520" y1="442" x2="593" y2="433" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="605" y="427" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="612" y1="442" x2="685" y2="433" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="697" y="427" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="704" y1="442" x2="777" y2="433" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="789" y="427" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="796" y1="442" x2="869" y2="433" stroke="#cbd5e1" stroke-width="1"/>
+<text x="30" y="465" class="small">2022批次</text>
+<text x="133" y="466" text-anchor="end" class="axis">厦门</text>
+<rect x="145" y="450" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="450" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="450" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="450" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="450" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="450" width="88" height="20" rx="3" fill="#fef2db" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="450" width="88" height="20" rx="3" fill="#fedfb9" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="450" width="88" height="20" rx="3" fill="#fdc78b" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="489" text-anchor="end" class="axis">天津</text>
+<rect x="145" y="473" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="473" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="473" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="473" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="473" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="473" width="88" height="20" rx="3" fill="#fdd4a3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="473" width="88" height="20" rx="3" fill="#fbac6e" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="473" width="88" height="20" rx="3" fill="#f78f62" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="512" text-anchor="end" class="axis">宁波</text>
+<rect x="145" y="496" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="496" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="496" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="496" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="496" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="496" width="88" height="20" rx="3" fill="#fdce9a" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="496" width="88" height="20" rx="3" fill="#f78e62" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="496" width="88" height="20" rx="3" fill="#f1594c" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="535" text-anchor="end" class="axis">广州</text>
+<rect x="145" y="519" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="519" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="519" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="519" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="519" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="519" width="88" height="20" rx="3" fill="#fdd09d" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="519" width="88" height="20" rx="3" fill="#fdc07f" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="519" width="88" height="20" rx="3" fill="#f78f62" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="558" text-anchor="end" class="axis">杭州</text>
+<rect x="145" y="542" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="542" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="542" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="542" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="542" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="542" width="88" height="20" rx="3" fill="#fdd09d" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="542" width="88" height="20" rx="3" fill="#f78b61" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="542" width="88" height="20" rx="3" fill="#dc3d3d" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="581" text-anchor="end" class="axis">湖州</text>
+<rect x="145" y="565" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="565" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="565" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="565" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="565" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="565" width="88" height="20" rx="3" fill="#fdd7a9" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="565" width="88" height="20" rx="3" fill="#faa26a" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="565" width="88" height="20" rx="3" fill="#f1554b" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="604" text-anchor="end" class="axis">福州</text>
+<rect x="145" y="588" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="588" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="588" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="588" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="588" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="588" width="88" height="20" rx="3" fill="#fdcc96" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="588" width="88" height="20" rx="3" fill="#f6835d" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="588" width="88" height="20" rx="3" fill="#c93636" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="627" text-anchor="end" class="axis">绍兴</text>
+<rect x="145" y="611" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="611" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="611" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="611" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="611" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="611" width="88" height="20" rx="3" fill="#fdcc96" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="611" width="88" height="20" rx="3" fill="#f78d61" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="611" width="88" height="20" rx="3" fill="#ef4946" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="650" text-anchor="end" class="axis">重庆</text>
+<rect x="145" y="634" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="634" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="634" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="634" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="634" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="634" width="88" height="20" rx="3" fill="#fef1da" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="634" width="88" height="20" rx="3" fill="#fef1da" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="634" width="88" height="20" rx="3" fill="#fef1da" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="673" text-anchor="end" class="axis">金华</text>
+<rect x="145" y="657" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="657" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="657" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="657" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="657" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="657" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="612" y1="672" x2="685" y2="663" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="697" y="657" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="704" y1="672" x2="777" y2="663" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="789" y="657" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="796" y1="672" x2="869" y2="663" stroke="#cbd5e1" stroke-width="1"/>
+<text x="30" y="695" class="small">2023批次</text>
+<text x="133" y="696" text-anchor="end" class="axis">东莞</text>
+<rect x="145" y="680" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="680" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="680" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="680" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="680" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="680" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="680" width="88" height="20" rx="3" fill="#fee3bf" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="680" width="88" height="20" rx="3" fill="#fdd09c" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="719" text-anchor="end" class="axis">中山</text>
+<rect x="145" y="703" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="703" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="703" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="703" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="703" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="703" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="703" width="88" height="20" rx="3" fill="#feeed3" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="703" width="88" height="20" rx="3" fill="#feeed3" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="742" text-anchor="end" class="axis">乐山</text>
+<rect x="145" y="726" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="726" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="726" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="726" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="726" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="726" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="726" width="88" height="20" rx="3" fill="#feebce" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="726" width="88" height="20" rx="3" fill="#feebce" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="765" text-anchor="end" class="axis">云浮</text>
+<rect x="145" y="749" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="749" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="749" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="749" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="749" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="749" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="749" width="88" height="20" rx="3" fill="#fee8c9" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="749" width="88" height="20" rx="3" fill="#fee8c9" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="788" text-anchor="end" class="axis">佛山</text>
+<rect x="145" y="772" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="772" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="772" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="772" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="772" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="772" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="772" width="88" height="20" rx="3" fill="#fee1bb" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="772" width="88" height="20" rx="3" fill="#fdbb76" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="811" text-anchor="end" class="axis">保定</text>
+<rect x="145" y="795" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="795" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="795" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="795" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="795" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="795" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="795" width="88" height="20" rx="3" fill="#feedd1" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="795" width="88" height="20" rx="3" fill="#fdd09c" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="834" text-anchor="end" class="axis">内江</text>
+<rect x="145" y="818" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="818" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="818" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="818" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="818" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="818" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="818" width="88" height="20" rx="3" fill="#fee6c5" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="818" width="88" height="20" rx="3" fill="#fdc78d" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="857" text-anchor="end" class="axis">南京</text>
+<rect x="145" y="841" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="841" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="841" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="841" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="841" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="841" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="841" width="88" height="20" rx="3" fill="#feedd2" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="841" width="88" height="20" rx="3" fill="#feedd2" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="880" text-anchor="end" class="axis">南充</text>
+<rect x="145" y="864" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="864" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="864" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="864" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="864" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="864" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="864" width="88" height="20" rx="3" fill="#feefd5" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="864" width="88" height="20" rx="3" fill="#feefd5" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="903" text-anchor="end" class="axis">南宁</text>
+<rect x="145" y="887" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="887" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="887" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="887" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="887" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="887" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="887" width="88" height="20" rx="3" fill="#fdca92" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="887" width="88" height="20" rx="3" fill="#f78e62" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="926" text-anchor="end" class="axis">南通</text>
+<rect x="145" y="910" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="910" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="910" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="910" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="910" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="910" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="910" width="88" height="20" rx="3" fill="#feeacc" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="910" width="88" height="20" rx="3" fill="#fdcd98" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="949" text-anchor="end" class="axis">唐山</text>
+<rect x="145" y="933" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="933" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="933" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="933" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="933" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="933" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="933" width="88" height="20" rx="3" fill="#fee7c6" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="933" width="88" height="20" rx="3" fill="#fee7c6" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="972" text-anchor="end" class="axis">宜宾</text>
+<rect x="145" y="956" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="956" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="956" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="956" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="956" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="956" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="956" width="88" height="20" rx="3" fill="#fee4c1" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="956" width="88" height="20" rx="3" fill="#fee4c1" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="995" text-anchor="end" class="axis">宿迁</text>
+<rect x="145" y="979" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="979" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="979" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="979" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="979" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="979" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="979" width="88" height="20" rx="3" fill="#fdc68a" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="979" width="88" height="20" rx="3" fill="#fdc68a" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1018" text-anchor="end" class="axis">巴中</text>
+<rect x="145" y="1002" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1002" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1002" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1002" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1002" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1002" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1002" width="88" height="20" rx="3" fill="#feefd5" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1002" width="88" height="20" rx="3" fill="#fee2be" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1041" text-anchor="end" class="axis">常州</text>
+<rect x="145" y="1025" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1025" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1025" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1025" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1025" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1025" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1025" width="88" height="20" rx="3" fill="#fdd09c" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1025" width="88" height="20" rx="3" fill="#faa36a" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1064" text-anchor="end" class="axis">广元</text>
+<rect x="145" y="1048" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1048" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1048" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1048" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1048" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1048" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1048" width="88" height="20" rx="3" fill="#fedcb3" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1048" width="88" height="20" rx="3" fill="#fedcb3" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1087" text-anchor="end" class="axis">广安</text>
+<rect x="145" y="1071" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1071" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1071" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1071" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1071" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1071" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1071" width="88" height="20" rx="3" fill="#fee3bf" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1071" width="88" height="20" rx="3" fill="#fdd7aa" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1110" text-anchor="end" class="axis">廊坊</text>
+<rect x="145" y="1094" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1094" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1094" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1094" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1094" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1094" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1094" width="88" height="20" rx="3" fill="#fef7e4" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1094" width="88" height="20" rx="3" fill="#fef7e4" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1133" text-anchor="end" class="axis">徐州</text>
+<rect x="145" y="1117" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1117" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1117" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1117" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1117" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1117" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1117" width="88" height="20" rx="3" fill="#fdd6a7" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1117" width="88" height="20" rx="3" fill="#fdc78c" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1156" text-anchor="end" class="axis">德阳</text>
+<rect x="145" y="1140" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1140" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1140" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1140" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1140" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1140" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1140" width="88" height="20" rx="3" fill="#fee4c2" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1140" width="88" height="20" rx="3" fill="#fee4c2" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1179" text-anchor="end" class="axis">惠州</text>
+<rect x="145" y="1163" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1163" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1163" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1163" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1163" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1163" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1163" width="88" height="20" rx="3" fill="#fdd5a6" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1163" width="88" height="20" rx="3" fill="#fdce9a" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1202" text-anchor="end" class="axis">扬州</text>
+<rect x="145" y="1186" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1186" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1186" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1186" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1186" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1186" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1186" width="88" height="20" rx="3" fill="#fdd19e" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1186" width="88" height="20" rx="3" fill="#f99f69" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1225" text-anchor="end" class="axis">承德</text>
+<rect x="145" y="1209" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1209" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1209" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1209" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1209" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1209" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1209" width="88" height="20" rx="3" fill="#fef9e7" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1209" width="88" height="20" rx="3" fill="#fee4c2" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1248" text-anchor="end" class="axis">揭阳</text>
+<rect x="145" y="1232" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1232" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1232" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1232" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1232" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1232" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1232" width="88" height="20" rx="3" fill="#fedfb9" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1232" width="88" height="20" rx="3" fill="#fedfb9" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1271" text-anchor="end" class="axis">攀枝花</text>
+<rect x="145" y="1255" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1255" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1255" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1255" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1255" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1255" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1255" width="88" height="20" rx="3" fill="#feddb5" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1255" width="88" height="20" rx="3" fill="#feddb5" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1294" text-anchor="end" class="axis">无锡</text>
+<rect x="145" y="1278" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1278" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1278" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1278" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1278" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1278" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1278" width="88" height="20" rx="3" fill="#fefaea" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1278" width="88" height="20" rx="3" fill="#feedd1" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1317" text-anchor="end" class="axis">昆明</text>
+<rect x="145" y="1301" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1301" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1301" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1301" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1301" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1301" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1301" width="88" height="20" rx="3" fill="#fdc588" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1301" width="88" height="20" rx="3" fill="#fdc588" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1340" text-anchor="end" class="axis">梅州</text>
+<rect x="145" y="1324" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1324" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1324" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1324" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1324" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1324" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1324" width="88" height="20" rx="3" fill="#fdcd98" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1324" width="88" height="20" rx="3" fill="#f89364" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1363" text-anchor="end" class="axis">汕头</text>
+<rect x="145" y="1347" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1347" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1347" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1347" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1347" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1347" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1347" width="88" height="20" rx="3" fill="#fee9cb" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1347" width="88" height="20" rx="3" fill="#fdc88e" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1386" text-anchor="end" class="axis">汕尾</text>
+<rect x="145" y="1370" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1370" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1370" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1370" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1370" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1370" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1370" width="88" height="20" rx="3" fill="#fdca92" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1370" width="88" height="20" rx="3" fill="#f46f55" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1409" text-anchor="end" class="axis">江门</text>
+<rect x="145" y="1393" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1393" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1393" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1393" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1393" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1393" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1393" width="88" height="20" rx="3" fill="#feddb5" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1393" width="88" height="20" rx="3" fill="#fdd3a2" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1432" text-anchor="end" class="axis">沧州</text>
+<rect x="145" y="1416" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1416" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1416" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1416" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1416" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1416" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1416" width="88" height="20" rx="3" fill="#fee6c5" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1416" width="88" height="20" rx="3" fill="#fdc283" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1455" text-anchor="end" class="axis">河源</text>
+<rect x="145" y="1439" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1439" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1439" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1439" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1439" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1439" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1439" width="88" height="20" rx="3" fill="#fedbb1" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1439" width="88" height="20" rx="3" fill="#fedbb1" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1478" text-anchor="end" class="axis">泰州</text>
+<rect x="145" y="1462" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1462" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1462" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1462" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1462" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1462" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1462" width="88" height="20" rx="3" fill="#fee0bb" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1462" width="88" height="20" rx="3" fill="#fdc78c" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1501" text-anchor="end" class="axis">泸州</text>
+<rect x="145" y="1485" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1485" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1485" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1485" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1485" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1485" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1485" width="88" height="20" rx="3" fill="#fedbb1" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1485" width="88" height="20" rx="3" fill="#fcb873" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1524" text-anchor="end" class="axis">济南</text>
+<rect x="145" y="1508" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1508" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1508" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1508" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1508" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1508" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1508" width="88" height="20" rx="3" fill="#fdc181" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1508" width="88" height="20" rx="3" fill="#f36853" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1547" text-anchor="end" class="axis">淮安</text>
+<rect x="145" y="1531" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1531" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1531" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1531" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1531" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1531" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1531" width="88" height="20" rx="3" fill="#fdd5a6" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1531" width="88" height="20" rx="3" fill="#fdd5a6" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1570" text-anchor="end" class="axis">清远</text>
+<rect x="145" y="1554" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1554" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1554" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1554" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1554" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1554" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1554" width="88" height="20" rx="3" fill="#feddb4" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1554" width="88" height="20" rx="3" fill="#fddaaf" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1593" text-anchor="end" class="axis">湛江</text>
+<rect x="145" y="1577" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1577" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1577" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1577" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1577" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1577" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1577" width="88" height="20" rx="3" fill="#fdd19f" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1577" width="88" height="20" rx="3" fill="#fdd19f" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1616" text-anchor="end" class="axis">潮州</text>
+<rect x="145" y="1600" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1600" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1600" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1600" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1600" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1600" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1600" width="88" height="20" rx="3" fill="#feecd0" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1600" width="88" height="20" rx="3" fill="#feecd0" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1639" text-anchor="end" class="axis">珠海</text>
+<rect x="145" y="1623" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1623" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1623" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1623" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1623" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1623" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1623" width="88" height="20" rx="3" fill="#feddb4" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1623" width="88" height="20" rx="3" fill="#fdbb77" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1662" text-anchor="end" class="axis">盐城</text>
+<rect x="145" y="1646" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1646" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1646" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1646" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1646" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1646" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1646" width="88" height="20" rx="3" fill="#fdcf9b" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1646" width="88" height="20" rx="3" fill="#f9a069" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1685" text-anchor="end" class="axis">眉山</text>
+<rect x="145" y="1669" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1669" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1669" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1669" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1669" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1669" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1669" width="88" height="20" rx="3" fill="#fedcb3" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1669" width="88" height="20" rx="3" fill="#fdc991" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1708" text-anchor="end" class="axis">石家庄</text>
+<rect x="145" y="1692" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1692" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1692" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1692" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1692" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1692" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1692" width="88" height="20" rx="3" fill="#fee6c4" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1692" width="88" height="20" rx="3" fill="#fdc07f" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1731" text-anchor="end" class="axis">秦皇岛</text>
+<rect x="145" y="1715" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1715" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1715" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1715" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1715" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1715" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1715" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="704" y1="1730" x2="777" y2="1721" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="789" y="1715" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="796" y1="1730" x2="869" y2="1721" stroke="#cbd5e1" stroke-width="1"/>
+<text x="133" y="1754" text-anchor="end" class="axis">绵阳</text>
+<rect x="145" y="1738" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1738" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1738" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1738" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1738" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1738" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1738" width="88" height="20" rx="3" fill="#fdd2a0" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1738" width="88" height="20" rx="3" fill="#fdc990" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1777" text-anchor="end" class="axis">肇庆</text>
+<rect x="145" y="1761" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1761" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1761" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1761" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1761" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1761" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1761" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="704" y1="1776" x2="777" y2="1767" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="789" y="1761" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="796" y1="1776" x2="869" y2="1767" stroke="#cbd5e1" stroke-width="1"/>
+<text x="133" y="1800" text-anchor="end" class="axis">自贡</text>
+<rect x="145" y="1784" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1784" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1784" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1784" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1784" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1784" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1784" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="704" y1="1799" x2="777" y2="1790" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="789" y="1784" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="796" y1="1799" x2="869" y2="1790" stroke="#cbd5e1" stroke-width="1"/>
+<text x="133" y="1823" text-anchor="end" class="axis">茂名</text>
+<rect x="145" y="1807" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1807" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1807" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1807" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1807" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1807" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1807" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="704" y1="1822" x2="777" y2="1813" stroke="#cbd5e1" stroke-width="1"/>
+<rect x="789" y="1807" width="88" height="20" rx="3" fill="#f8fafc" stroke="#94a3b8" stroke-width="1"/>
+<line x1="796" y1="1822" x2="869" y2="1813" stroke="#cbd5e1" stroke-width="1"/>
+<text x="133" y="1846" text-anchor="end" class="axis">衡水</text>
+<rect x="145" y="1830" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1830" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1830" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1830" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1830" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1830" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1830" width="88" height="20" rx="3" fill="#fee5c3" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1830" width="88" height="20" rx="3" fill="#fdcf9a" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1869" text-anchor="end" class="axis">西双版纳</text>
+<rect x="145" y="1853" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1853" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1853" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1853" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1853" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1853" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1853" width="88" height="20" rx="3" fill="#fedaaf" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1853" width="88" height="20" rx="3" fill="#fdbc78" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1892" text-anchor="end" class="axis">资阳</text>
+<rect x="145" y="1876" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1876" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1876" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1876" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1876" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1876" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1876" width="88" height="20" rx="3" fill="#fef6e3" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1876" width="88" height="20" rx="3" fill="#fef6e3" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1915" text-anchor="end" class="axis">达州</text>
+<rect x="145" y="1899" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1899" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1899" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1899" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1899" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1899" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1899" width="88" height="20" rx="3" fill="#fdd9ae" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1899" width="88" height="20" rx="3" fill="#fdce98" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1938" text-anchor="end" class="axis">连云港</text>
+<rect x="145" y="1922" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1922" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1922" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1922" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1922" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1922" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1922" width="88" height="20" rx="3" fill="#fee1bc" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1922" width="88" height="20" rx="3" fill="#fee1bc" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1961" text-anchor="end" class="axis">遂宁</text>
+<rect x="145" y="1945" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1945" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1945" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1945" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1945" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1945" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1945" width="88" height="20" rx="3" fill="#fedeb6" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1945" width="88" height="20" rx="3" fill="#fedeb6" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="1984" text-anchor="end" class="axis">邢台</text>
+<rect x="145" y="1968" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1968" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1968" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1968" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1968" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1968" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1968" width="88" height="20" rx="3" fill="#fedfb8" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1968" width="88" height="20" rx="3" fill="#fdcb94" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="2007" text-anchor="end" class="axis">邯郸</text>
+<rect x="145" y="1991" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="1991" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="1991" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="1991" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="1991" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="1991" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="1991" width="88" height="20" rx="3" fill="#fef3de" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="1991" width="88" height="20" rx="3" fill="#fef3de" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="2030" text-anchor="end" class="axis">镇江</text>
+<rect x="145" y="2014" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="2014" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="2014" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="2014" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="2014" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="2014" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="2014" width="88" height="20" rx="3" fill="#fdc990" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="2014" width="88" height="20" rx="3" fill="#fbae6f" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="2053" text-anchor="end" class="axis">防城港</text>
+<rect x="145" y="2037" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="2037" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="2037" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="2037" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="2037" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="2037" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="2037" width="88" height="20" rx="3" fill="#fedeb7" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="2037" width="88" height="20" rx="3" fill="#fdbf7e" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="2076" text-anchor="end" class="axis">阳江</text>
+<rect x="145" y="2060" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="2060" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="2060" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="2060" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="2060" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="2060" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="2060" width="88" height="20" rx="3" fill="#fedbb2" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="2060" width="88" height="20" rx="3" fill="#fdc990" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="2099" text-anchor="end" class="axis">雅安</text>
+<rect x="145" y="2083" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="2083" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="2083" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="2083" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="2083" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="2083" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="2083" width="88" height="20" rx="3" fill="#fdce99" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="2083" width="88" height="20" rx="3" fill="#fdc283" stroke="#ffffff" stroke-width="1"/>
+<text x="133" y="2122" text-anchor="end" class="axis">韶关</text>
+<rect x="145" y="2106" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="237" y="2106" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="329" y="2106" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="421" y="2106" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="513" y="2106" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="605" y="2106" width="88" height="20" rx="3" fill="#fffdf3" stroke="#ffffff" stroke-width="1"/>
+<rect x="697" y="2106" width="88" height="20" rx="3" fill="#feefd5" stroke="#ffffff" stroke-width="1"/>
+<rect x="789" y="2106" width="88" height="20" rx="3" fill="#feefd5" stroke="#ffffff" stroke-width="1"/>
+<rect x="730" y="2178" width="3" height="14" fill="#fffbeb"/>
+<rect x="733" y="2178" width="3" height="14" fill="#fef8e5"/>
+<rect x="736" y="2178" width="3" height="14" fill="#fef5e0"/>
+<rect x="739" y="2178" width="3" height="14" fill="#fef2db"/>
+<rect x="742" y="2178" width="3" height="14" fill="#feefd6"/>
+<rect x="745" y="2178" width="3" height="14" fill="#feecd1"/>
+<rect x="748" y="2178" width="3" height="14" fill="#feeacb"/>
+<rect x="751" y="2178" width="3" height="14" fill="#fee7c6"/>
+<rect x="754" y="2178" width="3" height="14" fill="#fee4c1"/>
+<rect x="757" y="2178" width="3" height="14" fill="#fee1bc"/>
+<rect x="760" y="2178" width="3" height="14" fill="#fedeb7"/>
+<rect x="763" y="2178" width="3" height="14" fill="#fedbb2"/>
+<rect x="766" y="2178" width="3" height="14" fill="#fdd9ac"/>
+<rect x="769" y="2178" width="3" height="14" fill="#fdd6a7"/>
+<rect x="772" y="2178" width="3" height="14" fill="#fdd3a2"/>
+<rect x="775" y="2178" width="3" height="14" fill="#fdd09d"/>
+<rect x="778" y="2178" width="3" height="14" fill="#fdcd98"/>
+<rect x="781" y="2178" width="3" height="14" fill="#fdca93"/>
+<rect x="784" y="2178" width="3" height="14" fill="#fdc88d"/>
+<rect x="787" y="2178" width="3" height="14" fill="#fdc588"/>
+<rect x="790" y="2178" width="3" height="14" fill="#fdc283"/>
+<rect x="793" y="2178" width="3" height="14" fill="#fdbf7e"/>
+<rect x="796" y="2178" width="3" height="14" fill="#fdbc79"/>
+<rect x="799" y="2178" width="3" height="14" fill="#fdba74"/>
+<rect x="802" y="2178" width="3" height="14" fill="#fcb471"/>
+<rect x="805" y="2178" width="3" height="14" fill="#fbaf6f"/>
+<rect x="808" y="2178" width="3" height="14" fill="#fbaa6d"/>
+<rect x="811" y="2178" width="3" height="14" fill="#faa56b"/>
+<rect x="814" y="2178" width="3" height="14" fill="#f9a069"/>
+<rect x="817" y="2178" width="3" height="14" fill="#f99b67"/>
+<rect x="820" y="2178" width="3" height="14" fill="#f89665"/>
+<rect x="823" y="2178" width="3" height="14" fill="#f89063"/>
+<rect x="826" y="2178" width="3" height="14" fill="#f78b61"/>
+<rect x="829" y="2178" width="3" height="14" fill="#f6865f"/>
+<rect x="832" y="2178" width="3" height="14" fill="#f6815d"/>
+<rect x="835" y="2178" width="3" height="14" fill="#f57c5a"/>
+<rect x="838" y="2178" width="3" height="14" fill="#f57758"/>
+<rect x="841" y="2178" width="3" height="14" fill="#f47256"/>
+<rect x="844" y="2178" width="3" height="14" fill="#f36d54"/>
+<rect x="847" y="2178" width="3" height="14" fill="#f36752"/>
+<rect x="850" y="2178" width="3" height="14" fill="#f26250"/>
+<rect x="853" y="2178" width="3" height="14" fill="#f25d4e"/>
+<rect x="856" y="2178" width="3" height="14" fill="#f1584c"/>
+<rect x="859" y="2178" width="3" height="14" fill="#f0534a"/>
+<rect x="862" y="2178" width="3" height="14" fill="#f04e48"/>
+<rect x="865" y="2178" width="3" height="14" fill="#ef4946"/>
+<rect x="868" y="2178" width="3" height="14" fill="#ef4444"/>
+<rect x="871" y="2178" width="3" height="14" fill="#ea4242"/>
+<rect x="874" y="2178" width="3" height="14" fill="#e54040"/>
+<rect x="877" y="2178" width="3" height="14" fill="#e03e3e"/>
+<rect x="880" y="2178" width="3" height="14" fill="#db3d3d"/>
+<rect x="883" y="2178" width="3" height="14" fill="#d63b3b"/>
+<rect x="886" y="2178" width="3" height="14" fill="#d13939"/>
+<rect x="889" y="2178" width="3" height="14" fill="#cc3838"/>
+<rect x="892" y="2178" width="3" height="14" fill="#c83636"/>
+<rect x="895" y="2178" width="3" height="14" fill="#c33434"/>
+<rect x="898" y="2178" width="3" height="14" fill="#be3333"/>
+<rect x="901" y="2178" width="3" height="14" fill="#b93131"/>
+<rect x="904" y="2178" width="3" height="14" fill="#b42f2f"/>
+<rect x="907" y="2178" width="3" height="14" fill="#af2d2d"/>
+<rect x="910" y="2178" width="3" height="14" fill="#aa2c2c"/>
+<rect x="913" y="2178" width="3" height="14" fill="#a52a2a"/>
+<rect x="916" y="2178" width="3" height="14" fill="#a12828"/>
+<rect x="919" y="2178" width="3" height="14" fill="#9c2727"/>
+<rect x="922" y="2178" width="3" height="14" fill="#972525"/>
+<rect x="925" y="2178" width="3" height="14" fill="#922323"/>
+<rect x="928" y="2178" width="3" height="14" fill="#8d2222"/>
+<rect x="931" y="2178" width="3" height="14" fill="#882020"/>
+<rect x="934" y="2178" width="3" height="14" fill="#831e1e"/>
+<rect x="937" y="2178" width="3" height="14" fill="#7f1d1d"/>
+<text x="730" y="2212" class="small">低强度</text>
+<text x="940" y="2212" text-anchor="end" class="small">高强度</text>
+<text x="36" y="2230" class="small">注：累计值由年度 flow 逐年累加并归一化，表示公开文本中可识别制度实践的累积强度。</text>
+</svg>

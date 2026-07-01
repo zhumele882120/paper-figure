@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720">
+<title>city trajectories</title>
+<rect width="100%" height="100%" fill="#fbfbf8"/>
+<style>
+text { font-family: 'Microsoft YaHei','SimHei','Noto Sans CJK SC',Arial,sans-serif; fill: #243447; }
+.title { font-size: 28px; font-weight: 700; }
+.subtitle { font-size: 14px; fill: #6b7280; }
+.axis { font-size: 12px; fill: #6b7280; }
+.small { font-size: 11px; fill: #6b7280; }
+.label { font-size: 12px; fill: #243447; }
+</style>
+
+<text x="36" y="44" class="title">核心城市数字人民币信贷导向规制能力演化轨迹</text>
+<text x="36" y="70" class="subtitle">展示综合强度最高的城市随时间演化；用于说明信贷导向规制强度具有动态扩展特征。</text>
+<line x1="36" y1="88" x2="1064" y2="88" stroke="#e5e7eb" stroke-width="1"/>
+
+<line x1="90" y1="620.0" x2="980" y2="620.0" stroke="#e5e7eb"/>
+<text x="78" y="624.0" text-anchor="end" class="small">0.0</text>
+<line x1="90" y1="520.0" x2="980" y2="520.0" stroke="#e5e7eb"/>
+<text x="78" y="524.0" text-anchor="end" class="small">0.2</text>
+<line x1="90" y1="420.0" x2="980" y2="420.0" stroke="#e5e7eb"/>
+<text x="78" y="424.0" text-anchor="end" class="small">0.4</text>
+<line x1="90" y1="320.0" x2="980" y2="320.0" stroke="#e5e7eb"/>
+<text x="78" y="324.0" text-anchor="end" class="small">0.6</text>
+<line x1="90" y1="220.0" x2="980" y2="220.0" stroke="#e5e7eb"/>
+<text x="78" y="224.0" text-anchor="end" class="small">0.8</text>
+<line x1="90" y1="120.0" x2="980" y2="120.0" stroke="#e5e7eb"/>
+<text x="78" y="124.0" text-anchor="end" class="small">1.0</text>
+<line x1="90.0" y1="120" x2="90.0" y2="620" stroke="#f1f5f9"/>
+<text x="90.0" y="646" text-anchor="middle" class="axis">2017</text>
+<line x1="217.1" y1="120" x2="217.1" y2="620" stroke="#f1f5f9"/>
+<text x="217.1" y="646" text-anchor="middle" class="axis">2018</text>
+<line x1="344.3" y1="120" x2="344.3" y2="620" stroke="#f1f5f9"/>
+<text x="344.3" y="646" text-anchor="middle" class="axis">2019</text>
+<line x1="471.4" y1="120" x2="471.4" y2="620" stroke="#f1f5f9"/>
+<text x="471.4" y="646" text-anchor="middle" class="axis">2020</text>
+<line x1="598.6" y1="120" x2="598.6" y2="620" stroke="#f1f5f9"/>
+<text x="598.6" y="646" text-anchor="middle" class="axis">2021</text>
+<line x1="725.7" y1="120" x2="725.7" y2="620" stroke="#f1f5f9"/>
+<text x="725.7" y="646" text-anchor="middle" class="axis">2022</text>
+<line x1="852.9" y1="120" x2="852.9" y2="620" stroke="#f1f5f9"/>
+<text x="852.9" y="646" text-anchor="middle" class="axis">2023</text>
+<line x1="980.0" y1="120" x2="980.0" y2="620" stroke="#f1f5f9"/>
+<text x="980.0" y="646" text-anchor="middle" class="axis">2024</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,511.9 725.7,311.9 852.9,120.0 980.0,620.0" fill="none" stroke="#9f1239" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#9f1239"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#9f1239"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#9f1239"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#9f1239"/>
+<circle cx="598.6" cy="511.9" r="4" fill="#9f1239"/>
+<circle cx="725.7" cy="311.9" r="4" fill="#9f1239"/>
+<circle cx="852.9" cy="120.0" r="4" fill="#9f1239"/>
+<circle cx="980.0" cy="620.0" r="4" fill="#9f1239"/>
+<text x="988.0" y="624.0" class="small" fill="#9f1239">苏州</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,284.1 725.7,318.3 852.9,177.2 980.0,128.4" fill="none" stroke="#b45309" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#b45309"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#b45309"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#b45309"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#b45309"/>
+<circle cx="598.6" cy="284.1" r="4" fill="#b45309"/>
+<circle cx="725.7" cy="318.3" r="4" fill="#b45309"/>
+<circle cx="852.9" cy="177.2" r="4" fill="#b45309"/>
+<circle cx="980.0" cy="128.4" r="4" fill="#b45309"/>
+<text x="988.0" y="132.4" class="small" fill="#b45309">上海</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,620.0 725.7,620.0 852.9,217.2 980.0,135.0" fill="none" stroke="#047857" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#047857"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#047857"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#047857"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#047857"/>
+<circle cx="598.6" cy="620.0" r="4" fill="#047857"/>
+<circle cx="725.7" cy="620.0" r="4" fill="#047857"/>
+<circle cx="852.9" cy="217.2" r="4" fill="#047857"/>
+<circle cx="980.0" cy="135.0" r="4" fill="#047857"/>
+<text x="988.0" y="139.0" class="small" fill="#047857">汕尾</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,620.0 725.7,620.0 852.9,135.6 980.0,177.4" fill="none" stroke="#1d4ed8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#1d4ed8"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#1d4ed8"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#1d4ed8"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#1d4ed8"/>
+<circle cx="598.6" cy="620.0" r="4" fill="#1d4ed8"/>
+<circle cx="725.7" cy="620.0" r="4" fill="#1d4ed8"/>
+<circle cx="852.9" cy="135.6" r="4" fill="#1d4ed8"/>
+<circle cx="980.0" cy="177.4" r="4" fill="#1d4ed8"/>
+<text x="988.0" y="181.4" class="small" fill="#1d4ed8">济南</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,620.0 725.7,227.8 852.9,209.7 980.0,145.6" fill="none" stroke="#6d28d9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#6d28d9"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#6d28d9"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#6d28d9"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#6d28d9"/>
+<circle cx="598.6" cy="620.0" r="4" fill="#6d28d9"/>
+<circle cx="725.7" cy="227.8" r="4" fill="#6d28d9"/>
+<circle cx="852.9" cy="209.7" r="4" fill="#6d28d9"/>
+<circle cx="980.0" cy="145.6" r="4" fill="#6d28d9"/>
+<text x="988.0" y="149.6" class="small" fill="#6d28d9">福州</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,620.0 725.7,620.0 852.9,165.6 980.0,620.0" fill="none" stroke="#0f766e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#0f766e"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#0f766e"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#0f766e"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#0f766e"/>
+<circle cx="598.6" cy="620.0" r="4" fill="#0f766e"/>
+<circle cx="725.7" cy="620.0" r="4" fill="#0f766e"/>
+<circle cx="852.9" cy="165.6" r="4" fill="#0f766e"/>
+<circle cx="980.0" cy="620.0" r="4" fill="#0f766e"/>
+<text x="988.0" y="624.0" class="small" fill="#0f766e">昆明</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,620.0 725.7,620.0 852.9,178.2 980.0,620.0" fill="none" stroke="#be123c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#be123c"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#be123c"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#be123c"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#be123c"/>
+<circle cx="598.6" cy="620.0" r="4" fill="#be123c"/>
+<circle cx="725.7" cy="620.0" r="4" fill="#be123c"/>
+<circle cx="852.9" cy="178.2" r="4" fill="#be123c"/>
+<circle cx="980.0" cy="620.0" r="4" fill="#be123c"/>
+<text x="988.0" y="624.0" class="small" fill="#be123c">宿迁</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,620.0 725.7,261.2 852.9,210.7 980.0,194.4" fill="none" stroke="#4338ca" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#4338ca"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#4338ca"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#4338ca"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#4338ca"/>
+<circle cx="598.6" cy="620.0" r="4" fill="#4338ca"/>
+<circle cx="725.7" cy="261.2" r="4" fill="#4338ca"/>
+<circle cx="852.9" cy="210.7" r="4" fill="#4338ca"/>
+<circle cx="980.0" cy="194.4" r="4" fill="#4338ca"/>
+<text x="988.0" y="198.4" class="small" fill="#4338ca">杭州</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,620.0 725.7,620.0 852.9,200.3 980.0,431.7" fill="none" stroke="#a16207" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#a16207"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#a16207"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#a16207"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#a16207"/>
+<circle cx="598.6" cy="620.0" r="4" fill="#a16207"/>
+<circle cx="725.7" cy="620.0" r="4" fill="#a16207"/>
+<circle cx="852.9" cy="200.3" r="4" fill="#a16207"/>
+<circle cx="980.0" cy="431.7" r="4" fill="#a16207"/>
+<text x="988.0" y="435.7" class="small" fill="#a16207">镇江</text>
+<polyline points="90.0,620.0 217.1,620.0 344.3,620.0 471.4,620.0 598.6,620.0 725.7,620.0 852.9,210.3 980.0,268.4" fill="none" stroke="#0369a1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+<circle cx="90.0" cy="620.0" r="4" fill="#0369a1"/>
+<circle cx="217.1" cy="620.0" r="4" fill="#0369a1"/>
+<circle cx="344.3" cy="620.0" r="4" fill="#0369a1"/>
+<circle cx="471.4" cy="620.0" r="4" fill="#0369a1"/>
+<circle cx="598.6" cy="620.0" r="4" fill="#0369a1"/>
+<circle cx="725.7" cy="620.0" r="4" fill="#0369a1"/>
+<circle cx="852.9" cy="210.3" r="4" fill="#0369a1"/>
+<circle cx="980.0" cy="268.4" r="4" fill="#0369a1"/>
+<text x="988.0" y="272.4" class="small" fill="#0369a1">南宁</text>
+<text x="90" y="102" class="axis">D_credit_cont_norm</text>
+</svg>

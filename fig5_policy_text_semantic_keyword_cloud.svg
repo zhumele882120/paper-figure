@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="720" viewBox="0 0 1220 720">
+<title>semantic keyword cloud</title>
+<rect width="100%" height="100%" fill="#fbfbf8"/>
+<style>
+text { font-family: 'Microsoft YaHei','SimHei','Noto Sans CJK SC',Arial,sans-serif; fill: #243447; }
+.title { font-size: 28px; font-weight: 700; }
+.subtitle { font-size: 14px; fill: #6b7280; }
+.axis { font-size: 12px; fill: #6b7280; }
+.small { font-size: 11px; fill: #6b7280; }
+.label { font-size: 12px; fill: #243447; }
+</style>
+
+<text x="36" y="44" class="title">数字人民币信贷导向政策文本关键词语义云</text>
+<text x="36" y="70" class="subtitle">每个分区对应一种规制能力；字号按关键词命中频次缩放，已剔除泛化高频词并压缩词数。</text>
+<line x1="36" y1="88" x2="1184" y2="88" stroke="#e5e7eb" stroke-width="1"/>
+
+<rect x="48" y="122" width="352" height="520" rx="10" fill="#e8f2fb" stroke="#2b7bba" stroke-opacity="0.28"/>
+<text x="70" y="158" font-size="20" font-weight="700" fill="#2b7bba">信息规制能力</text>
+<text x="70" y="183" class="small">追踪、识别、预警、监管接口</text>
+<line x1="70" y1="200" x2="378" y2="200" stroke="#2b7bba" stroke-opacity="0.22"/>
+<text x="224.0" y="350.7" text-anchor="middle" font-size="40.0" font-weight="700" fill="#2b7bba" fill-opacity="0.98" transform="rotate(0,224.0,350.7)">信用</text>
+<text x="217.0" y="423.0" text-anchor="middle" font-size="24.3" font-weight="700" fill="#2b7bba" fill-opacity="0.98" transform="rotate(0,217.0,423.0)">授信</text>
+<text x="171.2" y="302.4" text-anchor="middle" font-size="23.5" font-weight="700" fill="#2b7bba" fill-opacity="0.98" transform="rotate(-6,171.2,302.4)">对公钱包</text>
+<text x="283.8" y="302.4" text-anchor="middle" font-size="22.1" font-weight="700" fill="#2b7bba" fill-opacity="0.98" transform="rotate(5,283.8,302.4)">资金流</text>
+<text x="153.6" y="386.9" text-anchor="middle" font-size="19.9" font-weight="700" fill="#2b7bba" fill-opacity="0.98" transform="rotate(0,153.6,386.9)">风险监测</text>
+<text x="294.4" y="386.9" text-anchor="middle" font-size="19.2" font-weight="700" fill="#2b7bba" fill-opacity="0.98" transform="rotate(0,294.4,386.9)">风控</text>
+<text x="146.6" y="463.2" text-anchor="middle" font-size="19.0" font-weight="700" fill="#2b7bba" fill-opacity="0.98" transform="rotate(-5,146.6,463.2)">资金监管</text>
+<text x="301.4" y="463.2" text-anchor="middle" font-size="18.8" font-weight="500" fill="#2b7bba" fill-opacity="0.98" transform="rotate(5,301.4,463.2)">反洗钱</text>
+<text x="213.4" y="507.5" text-anchor="middle" font-size="18.6" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(0,213.4,507.5)">电子税务局</text>
+<text x="121.9" y="334.6" text-anchor="middle" font-size="17.9" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(0,121.9,334.6)">银企对接</text>
+<text x="326.1" y="338.6" text-anchor="middle" font-size="17.8" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(0,326.1,338.6)">反诈</text>
+<text x="118.4" y="523.5" text-anchor="middle" font-size="17.2" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(0,118.4,523.5)">穿透式监管</text>
+<text x="322.6" y="527.6" text-anchor="middle" font-size="16.8" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(0,322.6,527.6)">风险识别</text>
+<text x="224.0" y="278.3" text-anchor="middle" font-size="16.2" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(0,224.0,278.3)">资金流向</text>
+<text x="104.3" y="423.0" text-anchor="middle" font-size="16.0" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(-6,104.3,423.0)">交易数据</text>
+<text x="343.7" y="423.0" text-anchor="middle" font-size="16.0" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(6,343.7,423.0)">监管数据</text>
+<text x="174.7" y="559.7" text-anchor="middle" font-size="15.6" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(0,174.7,559.7)">银行授信</text>
+<text x="273.3" y="559.7" text-anchor="middle" font-size="15.5" font-weight="500" fill="#2b7bba" fill-opacity="0.78" transform="rotate(0,273.3,559.7)">税费申报</text>
+<rect x="434" y="122" width="352" height="520" rx="10" fill="#fdebe6" stroke="#d85c3a" stroke-opacity="0.28"/>
+<text x="456" y="158" font-size="20" font-weight="700" fill="#d85c3a">可编程规制能力</text>
+<text x="456" y="183" class="small">定向支付、财政直达、智能合约</text>
+<line x1="456" y1="200" x2="764" y2="200" stroke="#d85c3a" stroke-opacity="0.22"/>
+<text x="610.0" y="350.7" text-anchor="middle" font-size="40.0" font-weight="700" fill="#d85c3a" fill-opacity="0.98" transform="rotate(0,610.0,350.7)">缴税</text>
+<text x="603.0" y="423.0" text-anchor="middle" font-size="37.2" font-weight="700" fill="#d85c3a" fill-opacity="0.98" transform="rotate(0,603.0,423.0)">智能合约</text>
+<text x="557.2" y="302.4" text-anchor="middle" font-size="33.0" font-weight="700" fill="#d85c3a" fill-opacity="0.98" transform="rotate(-6,557.2,302.4)">惠企</text>
+<text x="669.8" y="302.4" text-anchor="middle" font-size="32.3" font-weight="700" fill="#d85c3a" fill-opacity="0.98" transform="rotate(5,669.8,302.4)">专项资金</text>
+<text x="539.6" y="386.9" text-anchor="middle" font-size="29.3" font-weight="700" fill="#d85c3a" fill-opacity="0.98" transform="rotate(0,539.6,386.9)">财政资金</text>
+<text x="680.4" y="386.9" text-anchor="middle" font-size="26.3" font-weight="700" fill="#d85c3a" fill-opacity="0.98" transform="rotate(0,680.4,386.9)">托管</text>
+<text x="532.6" y="463.2" text-anchor="middle" font-size="25.6" font-weight="700" fill="#d85c3a" fill-opacity="0.98" transform="rotate(-5,532.6,463.2)">税费缴纳</text>
+<text x="687.4" y="463.2" text-anchor="middle" font-size="23.6" font-weight="500" fill="#d85c3a" fill-opacity="0.98" transform="rotate(5,687.4,463.2)">预付资金</text>
+<text x="599.4" y="507.5" text-anchor="middle" font-size="23.1" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(0,599.4,507.5)">三方协议</text>
+<text x="507.9" y="334.6" text-anchor="middle" font-size="21.5" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(0,507.9,334.6)">财政补贴</text>
+<text x="712.1" y="338.6" text-anchor="middle" font-size="21.0" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(0,712.1,338.6)">闭环管理</text>
+<text x="504.4" y="523.5" text-anchor="middle" font-size="20.6" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(0,504.4,523.5)">预付卡</text>
+<text x="708.6" y="527.6" text-anchor="middle" font-size="20.3" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(0,708.6,527.6)">可编程</text>
+<text x="610.0" y="278.3" text-anchor="middle" font-size="19.8" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(0,610.0,278.3)">工资发放</text>
+<text x="490.3" y="423.0" text-anchor="middle" font-size="19.3" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(-6,490.3,423.0)">定向支付</text>
+<text x="729.7" y="423.0" text-anchor="middle" font-size="17.6" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(6,729.7,423.0)">资金托管</text>
+<text x="560.7" y="559.7" text-anchor="middle" font-size="17.4" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(0,560.7,559.7)">社保缴费</text>
+<text x="659.3" y="559.7" text-anchor="middle" font-size="16.6" font-weight="500" fill="#d85c3a" fill-opacity="0.78" transform="rotate(0,659.3,559.7)">贷款用途</text>
+<rect x="820" y="122" width="352" height="520" rx="10" fill="#e7f5ee" stroke="#2b9b72" stroke-opacity="0.28"/>
+<text x="842" y="158" font-size="20" font-weight="700" fill="#2b9b72">产业连接能力</text>
+<text x="842" y="183" class="small">供应链金融、银企连接、实体服务</text>
+<line x1="842" y1="200" x2="1150" y2="200" stroke="#2b9b72" stroke-opacity="0.22"/>
+<text x="996.0" y="350.7" text-anchor="middle" font-size="40.0" font-weight="700" fill="#2b9b72" fill-opacity="0.98" transform="rotate(0,996.0,350.7)">工业</text>
+<text x="989.0" y="423.0" text-anchor="middle" font-size="33.2" font-weight="700" fill="#2b9b72" fill-opacity="0.98" transform="rotate(0,989.0,423.0)">园区</text>
+<text x="943.2" y="302.4" text-anchor="middle" font-size="32.3" font-weight="700" fill="#2b9b72" fill-opacity="0.98" transform="rotate(-6,943.2,302.4)">产业链</text>
+<text x="1055.8" y="302.4" text-anchor="middle" font-size="31.5" font-weight="700" fill="#2b9b72" fill-opacity="0.98" transform="rotate(5,1055.8,302.4)">实体经济</text>
+<text x="925.6" y="386.9" text-anchor="middle" font-size="29.4" font-weight="700" fill="#2b9b72" fill-opacity="0.98" transform="rotate(0,925.6,386.9)">小微企业</text>
+<text x="1066.4" y="386.9" text-anchor="middle" font-size="28.5" font-weight="700" fill="#2b9b72" fill-opacity="0.98" transform="rotate(0,1066.4,386.9)">制造业</text>
+<text x="918.6" y="463.2" text-anchor="middle" font-size="27.7" font-weight="700" fill="#2b9b72" fill-opacity="0.98" transform="rotate(-5,918.6,463.2)">出口</text>
+<text x="1073.4" y="463.2" text-anchor="middle" font-size="27.6" font-weight="500" fill="#2b9b72" fill-opacity="0.98" transform="rotate(5,1073.4,463.2)">普惠金融</text>
+<text x="985.4" y="507.5" text-anchor="middle" font-size="27.4" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(0,985.4,507.5)">采购</text>
+<text x="893.9" y="334.6" text-anchor="middle" font-size="26.8" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(0,893.9,334.6)">供应链</text>
+<text x="1098.1" y="338.6" text-anchor="middle" font-size="26.7" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(0,1098.1,338.6)">产业园</text>
+<text x="890.4" y="523.5" text-anchor="middle" font-size="24.4" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(0,890.4,523.5)">中小微</text>
+<text x="1094.6" y="527.6" text-anchor="middle" font-size="23.6" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(0,1094.6,527.6)">对公</text>
+<text x="996.0" y="278.3" text-anchor="middle" font-size="23.5" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(0,996.0,278.3)">清算</text>
+<text x="876.3" y="423.0" text-anchor="middle" font-size="22.9" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(-6,876.3,423.0)">跨境支付</text>
+<text x="1115.7" y="423.0" text-anchor="middle" font-size="22.6" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(6,1115.7,423.0)">进口</text>
+<text x="946.7" y="559.7" text-anchor="middle" font-size="21.5" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(0,946.7,559.7)">跨境贸易</text>
+<text x="1045.3" y="559.7" text-anchor="middle" font-size="21.0" font-weight="500" fill="#2b9b72" fill-opacity="0.78" transform="rotate(0,1045.3,559.7)">对公钱包</text>
+<text x="48" y="678" class="small">注：词频来自可用政策/应用文本的机制关键词命中；本图用于展示指标构造的语义基础，不作为因果识别结果。</text>
+</svg>

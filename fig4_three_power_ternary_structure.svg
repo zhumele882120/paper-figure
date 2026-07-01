@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="780" viewBox="0 0 920 780">
+<title>three power ternary</title>
+<rect width="100%" height="100%" fill="#fbfbf8"/>
+<style>
+text { font-family: 'Microsoft YaHei','SimHei','Noto Sans CJK SC',Arial,sans-serif; fill: #243447; }
+.title { font-size: 28px; font-weight: 700; }
+.subtitle { font-size: 14px; fill: #6b7280; }
+.axis { font-size: 12px; fill: #6b7280; }
+.small { font-size: 11px; fill: #6b7280; }
+.label { font-size: 12px; fill: #243447; }
+</style>
+
+<text x="36" y="44" class="title">信贷导向三类规制能力结构：信息-可编程-产业连接</text>
+<text x="36" y="70" class="subtitle">每个点为城市最新年份观测；越靠近某一顶点，表示该机制占比越高；点大小表示综合强度。</text>
+<line x1="36" y1="88" x2="884" y2="88" stroke="#e5e7eb" stroke-width="1"/>
+
+<polygon points="460,130 150,650 770,650" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+<line x1="212.0" y1="546.0" x2="708.0" y2="546.0" stroke="#e5e7eb"/>
+<line x1="398.0" y1="234.0" x2="646.0" y2="650.0" stroke="#e5e7eb"/>
+<line x1="522.0" y1="234.0" x2="274.0" y2="650.0" stroke="#e5e7eb"/>
+<line x1="274.0" y1="442.0" x2="646.0" y2="442.0" stroke="#e5e7eb"/>
+<line x1="336.0" y1="338.0" x2="522.0" y2="650.0" stroke="#e5e7eb"/>
+<line x1="584.0" y1="338.0" x2="398.0" y2="650.0" stroke="#e5e7eb"/>
+<line x1="336.0" y1="338.0" x2="584.0" y2="338.0" stroke="#e5e7eb"/>
+<line x1="274.0" y1="442.0" x2="398.0" y2="650.0" stroke="#e5e7eb"/>
+<line x1="646.0" y1="442.0" x2="522.0" y2="650.0" stroke="#e5e7eb"/>
+<line x1="398.0" y1="234.0" x2="522.0" y2="234.0" stroke="#e5e7eb"/>
+<line x1="212.0" y1="546.0" x2="274.0" y2="650.0" stroke="#e5e7eb"/>
+<line x1="708.0" y1="546.0" x2="646.0" y2="650.0" stroke="#e5e7eb"/>
+<text x="460" y="108" text-anchor="middle" font-size="16" font-weight="700" fill="#2b7bba">信息规制</text>
+<text x="140" y="684" text-anchor="middle" font-size="16" font-weight="700" fill="#d85c3a">可编程</text>
+<text x="782" y="684" text-anchor="middle" font-size="16" font-weight="700" fill="#2b9b72">产业连接</text>
+<circle cx="150.0" cy="650.0" r="4.5" fill="#d85c3a" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="770.0" cy="650.0" r="4.6" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="404.8" cy="650.0" r="5.2" fill="#d85c3a" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="223.2" cy="527.3" r="5.5" fill="#d85c3a" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="688.5" cy="513.3" r="5.8" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="427.0" cy="650.0" r="5.9" fill="#d85c3a" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="651.7" cy="451.5" r="6.2" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="512.2" cy="538.8" r="6.3" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="466.1" cy="341.3" r="6.4" fill="#2b7bba" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="468.0" cy="568.9" r="6.5" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="664.0" cy="472.3" r="6.6" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="565.4" cy="493.0" r="6.9" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="666.5" cy="476.3" r="7.3" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="398.3" cy="547.1" r="7.5" fill="#d85c3a" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="448.8" cy="650.0" r="7.7" fill="#d85c3a" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="703.8" cy="539.0" r="7.7" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="621.3" cy="496.9" r="8.0" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="658.8" cy="463.4" r="8.1" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="370.3" cy="557.1" r="8.2" fill="#d85c3a" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="596.9" cy="560.6" r="8.2" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="621.6" cy="488.7" r="8.5" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="574.7" cy="504.4" r="8.5" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="541.4" cy="558.1" r="9.1" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="657.0" cy="460.5" r="9.2" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="559.6" cy="454.8" r="9.4" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="480.9" cy="525.2" r="9.7" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="514.2" cy="534.8" r="9.9" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="397.6" cy="476.2" r="9.9" fill="#d85c3a" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="525.8" cy="552.8" r="10.0" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="489.8" cy="545.2" r="10.0" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="560.2" cy="519.5" r="10.0" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="519.0" cy="541.1" r="10.2" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="543.6" cy="512.7" r="10.4" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="500.9" cy="453.9" r="10.6" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="418.6" cy="535.1" r="10.7" fill="#d85c3a" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="551.2" cy="478.8" r="11.0" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="515.4" cy="522.6" r="11.1" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="561.7" cy="482.6" r="11.1" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="510.7" cy="507.9" r="11.2" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="494.6" cy="521.9" r="11.3" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="504.7" cy="502.0" r="11.7" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="517.1" cy="467.3" r="11.7" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="535.2" cy="476.2" r="11.7" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="534.2" cy="509.0" r="11.8" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="521.1" cy="492.2" r="11.8" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="553.2" cy="510.0" r="12.4" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="526.2" cy="486.0" r="12.5" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="504.9" cy="479.4" r="12.6" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="498.0" cy="496.0" r="14.2" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="527.0" cy="499.9" r="14.6" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="485.6" cy="503.3" r="15.4" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="496.2" cy="483.4" r="15.6" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<circle cx="517.5" cy="480.8" r="15.8" fill="#2b9b72" fill-opacity="0.45" stroke="#111827" stroke-opacity="0.25"/>
+<text x="525.5" y="472.8" class="small">上海</text>
+<text x="504.2" y="475.4" class="small">汕尾</text>
+<text x="493.6" y="495.3" class="small">福州</text>
+<text x="535.0" y="491.9" class="small">济南</text>
+<text x="506.0" y="488.0" class="small">杭州</text>
+<text x="512.9" y="471.4" class="small">湖州</text>
+<text x="534.2" y="478.0" class="small">梅州</text>
+<text x="561.2" y="502.0" class="small">南宁</text>
+<text x="529.1" y="484.2" class="small">成都</text>
+<text x="542.2" y="501.0" class="small">石家庄</text>
+</svg>
